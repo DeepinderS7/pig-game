@@ -1,6 +1,5 @@
 
 # Pig Game 🎲
----
 
 ### Description
 
