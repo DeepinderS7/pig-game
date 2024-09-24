@@ -1,8 +1,6 @@
-Here's a **README.md** for the **Pig Game** created using HTML, CSS, and JavaScript:
-
----
 
 # Pig Game 🎲
+---
 
 ### Description
 
